@@ -17,8 +17,13 @@
 
 <resources>
 
+    <!-- Base application theme. -->
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/darkGrey</item>
     </style>
 
     <style name="Theme.Bacon.Detail">
@@ -26,3 +31,5 @@
     </style>
 
 </resources>
+
+

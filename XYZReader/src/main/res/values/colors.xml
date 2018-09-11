@@ -17,9 +17,37 @@
 
 <resources>
     <color name="photo_placeholder">#ccc</color>
-
     <color name="theme_primary">#04561A</color>
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#2C662E</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#F15050</color>
+    <color name="redDark">#d43c3c</color>
+    <color name="yellow">#EED45A</color>
+    <color name="yellowDark">#d4bb46</color>
+    <color name="lime">#BCE24A</color>
+    <color name="limeDark">#9dbf35</color>
+    <color name="green">#48D26B</color>
+    <color name="greenDark">#36b957</color>
+    <color name="blue">#48DFE1</color>
+    <color name="blueDark">#37c4c6</color>
+    <color name="darkBlue">#5A9CEE</color>
+    <color name="darkBlueDark">#417eca</color>
+    <color name="darkViolet">#7E50F1</color>
+    <color name="darkVioletDark">#683dd4</color>
+    <color name="violet">#D65AEE</color>
+    <color name="violetDark">#b33ec9</color>
+    <color name="white">#FFFF</color>
+    <color name="white_opaque">#c6ffffff</color>
+    <color name="grey_opaque">#c6767676</color>
+    <color name="textColor">#465b66</color>
+    <color name="darkGrey">#4c4c4c</color>
+    <color name="mediumGrey">#607D8B</color>
+    <color name="darkDarkGrey">#232E33</color>
+    <color name="lightGrey">#d1d0d0</color>
+    <color name="lightLightGrey">#8ee4e3e3</color>
 </resources>
